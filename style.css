@@ -1,0 +1,35 @@
+nav{
+	color:# #FF69B4;
+}
+
+body{
+	background-color: #48D1CC;
+	margin: 30 px 30 px 30 px 30 px;
+
+}
+
+}
+h1 {
+	color: #FF69B4;
+	font-family: verdana;
+}
+
+.title{
+	color: #9932CC;
+}
+
+.class{
+	color: #FF69B4;
+	font-family: verdana, sans-serif;
+
+}
+p {
+	font-family: Times New Roman, serif;
+}
+div {
+	
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
